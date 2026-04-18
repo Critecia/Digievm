@@ -33,5 +33,6 @@ the first prototype step toward that idea.
 |----------|----------|
 | Android (APK) | [📱 Download APK](https://github.com/Critecia/Digievm/releases/latest/download/app-arm64-v8a-release.apk) |
 | Windows | [💻 Download Setup](https://github.com/Critecia/Digievm/releases/latest/download/mysetup.exe) |
+| Web | [🌐 Open Web App](https://digievm-09.web.app) |
 
 ## Thank you!!!!
