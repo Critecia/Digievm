@@ -31,6 +31,6 @@ the first prototype step toward that idea.
 | Platform | Download |
 |----------|----------|
 | Android (APK) | [📱 Download APK](https://github.com/Critecia/Digievm/releases/latest/download/app-arm64-v8a-release.apk) |
-| Windows | [💻 Download Setup](https://github.com/Critecia/Digievm/releases/latest/download/Digievm-Setup.exe) |
+| Windows | [💻 Download Setup](https://github.com/Critecia/Digievm/releases/latest/download/mysetup.exe) |
 
 ## Thank you!!!!
