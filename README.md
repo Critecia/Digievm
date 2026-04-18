@@ -1,16 +1,31 @@
-# evm
+# Digital EVM — Voting System Prototype
 
-A new Flutter project.
+A digital Electronic Voting Machine built for my Class 9 SST 
+exhibition. Designed as a prototype for a larger-scale secure 
+election system.
 
-## Getting Started
+## Motivation
+The original vision was to integrate blockchain into real elections 
+to make them secure, transparent, and tamper-proof. This app is 
+the first prototype step toward that idea.
 
-This project is a starting point for a Flutter application.
+## Features
+- Live voting turnout with real-time charts
+- Local storage of votes (offline-safe, prevents online attacks)
+- Vote reset for reusability and anti-rigging
+- Cross-platform — runs on mobile, tablet, desktop, and web
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter & Dart
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
+<img width="1024" height="741" alt="image" src="https://github.com/user-attachments/assets/4c0a9131-3250-474e-9bb7-b852c22e082d" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img width="1024" height="739" alt="image" src="https://github.com/user-attachments/assets/8505b512-c103-4444-a825-65e346e2c380" />
+
+
+<img width="1024" height="735" alt="image" src="https://github.com/user-attachments/assets/1b2fd206-4aca-4c87-8123-e41f16caff67" />
+
+
+## Thank you!!!!
