@@ -27,6 +27,6 @@ the first prototype step toward that idea.
 
 <img width="1024" height="735" alt="image" src="https://github.com/user-attachments/assets/1b2fd206-4aca-4c87-8123-e41f16caff67" />
 ## Download
-[![Download APK](https://img.shields.io/badge/Download-APK-green)](https://github.com/Critecia/Digievm/releases/tag/v1.0.0)
+(https://github.com/Critecia/Digievm/releases/tag/v1.0.0)
 
 ## Thank you!!!!
