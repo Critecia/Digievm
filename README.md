@@ -27,6 +27,10 @@ the first prototype step toward that idea.
 
 <img width="1024" height="735" alt="image" src="https://github.com/user-attachments/assets/1b2fd206-4aca-4c87-8123-e41f16caff67" />
 ## Download
-(https://github.com/Critecia/Digievm/releases/tag/v1.0.0)
+
+| Platform | Download |
+|----------|----------|
+| Android (APK) | [📱 Download APK](https://github.com/Critecia/Digievm/releases/latest/download/app-arm64-v8a-release.apk) |
+| Windows | [💻 Download Setup](https://github.com/Critecia/Digievm/releases/latest/download/Digievm-Setup.exe) |
 
 ## Thank you!!!!
